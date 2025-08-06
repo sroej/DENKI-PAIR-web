@@ -82,7 +82,7 @@ var randomItem = selectRandomItem(items);
 ║https://t.me/denkitech_hub 
 ║
 ║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 :
- https://whatsapp.com/channel/0029VbAdcIXJP216dKW1253g 
+ https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R 
 ║❒ 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 : DYBYTECH
 ╚══════════════════════════❒
 
@@ -113,7 +113,7 @@ renderLargerThumbnail: true
 ║https://t.me/denkitech_hub 
 ║
 ║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 :
- https://whatsapp.com/channel/0029VbAdcIXJP216dKW1253g 
+ https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R
 ║
 ╚══════════════════════════❒
 
