@@ -86,8 +86,7 @@ var randomItem = selectRandomItem(items);
 ║❒ 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 :
 ║https://t.me/denkitech_hub 
 ║
-║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 :
- https://whatsapp.com/channel/0029VbAdcIXJP216dKW1253g 
+║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R 
 ║❒ 𝗧𝗵𝗮𝗻𝗸𝘀 𝘁𝗼 : DYBYTECH
 ╚══════════════════════════❒
 
@@ -99,7 +98,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-xᴅ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -118,7 +117,7 @@ renderLargerThumbnail: true
 ║https://t.me/denkitech_hub 
 ║
 ║❒ 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 :
- https://whatsapp.com/channel/0029VbAdcIXJP216dKW1253g 
+ https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R
 ║
 ╚══════════════════════════❒
 
@@ -130,7 +129,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴍᴀʟᴠɪɴ-xᴅ",
 thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+sourceUrl: "https://whatsapp.com/channel/0029VbB06qE9sBIFlu00Dq0R",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
